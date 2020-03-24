@@ -1,0 +1,148 @@
+html, body {
+  height: 100%;
+}
+h1 {
+	text-align: center;
+}
+
+a {
+    color: black;
+}
+
+
+
+.foto{
+border:2px dashed #000080 ;
+}
+
+.wrapper {
+	margin-left: 40%;
+	margin-top: 5%;
+}
+
+.custom-select, .form-group {
+    margin-left: 10px;
+    margin-top: 10px;
+	width: 20px;
+
+}
+
+#content {
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+#sidebar {
+    float: right;
+    margin-right: 20px;
+    margin-top: : 20px;
+}
+
+.tabs {
+	margin-top: -10px;
+
+}
+
+.form-check, .form-control {
+	margin-top: 2px;
+    margin-left: 10px;
+	height: 10px;
+}
+
+.btn-primary, .btn-success .btn-group, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #000080 !important;
+    margin-top: 20px;
+
+}
+
+.profile {
+         width: 100%;/*фиксируем ширину обертки*/
+         height: 100%;
+         margin-top: 0px;
+         /*центрируем ее*/
+         background: white;
+        }
+
+
+
+#chat {
+    float: left;
+   width: 80%;
+    margin-left: -20%;
+    margin-top: 80px;
+}
+
+#com {
+    width: -10%;
+    float: right;
+    margin-right: 110%;
+    margin-top: -25%;
+}
+
+.container {
+    width: 100%;/*фиксируем ширину обертки*/
+         height: 100%;
+         margin-top: 0px;
+         /*центрируем ее*/
+         background: white;
+ }
+
+
+
+	
+.bg-company-red {
+    background-color: #000080 !important;
+}
+
+#notisfaction {
+    width: 500px;
+    height: 310px;
+    outline: 2px solid #000080;
+    margin-top: 10px;
+}
+
+.arcicleHref1 {
+    color: black;
+}
+
+#about {
+     width: 500px;
+    height: 270px;
+    outline: 2px solid #000080;
+    margin-top: 10px;
+}
+
+#messagesText {
+    width: 500px;
+    height: 270px;
+    outline: 2px solid #000080;
+    margin-top: 10px;
+}
+
+.message {
+     width: 500px;
+    height: 270px;
+    outline: 2px solid  #000080 !important;
+    margin-top: 10px;
+}
+
+.content-event {
+    margin-left: 40%;
+    margin-top: 2%;
+}
+
+#about-event  {
+    width: 500px;
+    height: 270px;
+    outline: 2px solid #000080;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+
+
+
+
+
